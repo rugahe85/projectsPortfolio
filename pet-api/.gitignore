@@ -1,6 +1,0 @@
-.gradle/
-.idea/
-build/
-!gradle/wrapper/gradle-wrapper.jar
-.navigation/
-.gradlew
